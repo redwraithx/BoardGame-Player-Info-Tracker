@@ -1,0 +1,19 @@
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\BoardGame Player Information Tracker\BoardGame Player Information Tracker\bin\Release\BoardGame Player Information Tracker.exe.config
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\BoardGame Player Information Tracker\BoardGame Player Information Tracker\bin\Release\BoardGame Player Information Tracker.exe
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\BoardGame Player Information Tracker\BoardGame Player Information Tracker\bin\Release\BoardGame Player Information Tracker.pdb
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\BoardGame Player Information Tracker\BoardGame Player Information Tracker\obj\Release\BoardGame_Player_Information_Tracker.Form1.resources
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\BoardGame Player Information Tracker\BoardGame Player Information Tracker\obj\Release\BoardGame_Player_Information_Tracker.Properties.Resources.resources
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\BoardGame Player Information Tracker\BoardGame Player Information Tracker\obj\Release\BoardGame Player Information Tracker.csproj.GenerateResource.cache
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\BoardGame Player Information Tracker\BoardGame Player Information Tracker\obj\Release\BoardGame Player Information Tracker.csproj.CoreCompileInputs.cache
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\BoardGame Player Information Tracker\BoardGame Player Information Tracker\obj\Release\BoardGame Player Information Tracker.exe
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\BoardGame Player Information Tracker\BoardGame Player Information Tracker\obj\Release\BoardGame Player Information Tracker.pdb
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\school_and_oldstuff\BoardGame Player Information Tracker\BoardGame Player Information Tracker\bin\Release\BoardGame Player Information Tracker.exe.config
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\school_and_oldstuff\BoardGame Player Information Tracker\BoardGame Player Information Tracker\bin\Release\BoardGame Player Information Tracker.exe
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\school_and_oldstuff\BoardGame Player Information Tracker\BoardGame Player Information Tracker\bin\Release\BoardGame Player Information Tracker.pdb
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\school_and_oldstuff\BoardGame Player Information Tracker\BoardGame Player Information Tracker\obj\Release\BoardGame Player Information Tracker.csprojAssemblyReference.cache
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\school_and_oldstuff\BoardGame Player Information Tracker\BoardGame Player Information Tracker\obj\Release\BoardGame_Player_Information_Tracker.Form1.resources
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\school_and_oldstuff\BoardGame Player Information Tracker\BoardGame Player Information Tracker\obj\Release\BoardGame_Player_Information_Tracker.Properties.Resources.resources
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\school_and_oldstuff\BoardGame Player Information Tracker\BoardGame Player Information Tracker\obj\Release\BoardGame Player Information Tracker.csproj.GenerateResource.cache
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\school_and_oldstuff\BoardGame Player Information Tracker\BoardGame Player Information Tracker\obj\Release\BoardGame Player Information Tracker.csproj.CoreCompileInputs.cache
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\school_and_oldstuff\BoardGame Player Information Tracker\BoardGame Player Information Tracker\obj\Release\BoardGame Player Information Tracker.exe
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\school_and_oldstuff\BoardGame Player Information Tracker\BoardGame Player Information Tracker\obj\Release\BoardGame Player Information Tracker.pdb
